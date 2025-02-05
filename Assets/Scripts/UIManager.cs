@@ -4,7 +4,13 @@ using UnityEngine;
 
 public class UIManager : MonoBehaviour
 {
-    public void ScoreUpdate()
+
+    private void Update()
+    {
+        
+    }
+
+    public void ScoreUpdate(int value)
     {
 
     }
